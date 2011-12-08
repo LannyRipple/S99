@@ -1,3 +1,5 @@
+package me.rémi.s99
+
 import java.util.NoSuchElementException
 
 class S199List(n: Int, a: Any) {
